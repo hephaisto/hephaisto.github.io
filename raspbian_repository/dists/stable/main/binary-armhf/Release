@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: hephaisto.github.io
+Label: Hephaisto via github
+Architecture: armhf
+Description: Auto generated packages for raspbian

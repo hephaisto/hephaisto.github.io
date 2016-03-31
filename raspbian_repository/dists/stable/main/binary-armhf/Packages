@@ -1,0 +1,14 @@
+Package: helloworld
+Homepage: https://github.com/hephaisto/helloworld
+Priority: optional
+Section: main
+Filename: pool/main/h/helloworld/helloworld_1.0.0_armhf.deb
+Size: 3342
+SHA256: aa5880b37b2a079f99d06305d7a2a32b9b1e87068656a16827134685ee780702
+SHA1: da4c0c6220a3ba79943c239e955c84130af64f2a
+MD5sum: d31148ed5217b1c110d48c34b0eeebe5
+Description: Example program
+Maintainer: hephaisto <hephaisto@users.noreply.github.com>
+Architecture: armhf
+Version: 1.0.0
+
