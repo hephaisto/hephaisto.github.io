@@ -12,6 +12,36 @@ Maintainer: hephaisto <hephaisto@users.noreply.github.com>
 Architecture: armhf
 Version: 1.0.0
 
+Package: libserial-can-dump
+Homepage: https://github.com/hephaisto/serial-can-dump
+Priority: optional
+Section: misc
+Filename: pool/main/libs/libserial-can-dump/libserial-can-dump_1.0.1_armhf.deb
+Size: 1386
+SHA256: 228fc9152a0738491c4eedc5097abd0a11d3efe11a5f7bbf3ddd8572f9fc4342
+SHA1: c03d502c8f12a4e076c9bd2498f378437be0f69a
+MD5sum: 46decc99cffce70c4a4eb1a0d8a62269
+Description: Transfer CAN frames via serial. Host-Library to decode serial input.
+Maintainer: hephaisto <hephaisto@users.noreply.github.com>
+Version: 1.0.1
+Architecture: armhf
+Depends: libserial-can-dump
+
+Package: libserial-can-dump-dev
+Homepage: https://github.com/hephaisto/serial-can-dump
+Priority: optional
+Section: misc
+Filename: pool/main/libs/libserial-can-dump-dev/libserial-can-dump-dev_1.0.1_armhf.deb
+Size: 90764
+SHA256: e5444db67d5a7f253b32cc34db5e6bbeb1c72cb814e9aec5a1f6dc2c2f3ef904
+SHA1: 5bc3c79518395904b27f1930422b97a8f38fb5bb
+MD5sum: 32df279d282ef966e280f21d81cdbabf
+Description: Header files for libserial-can-dump
+Maintainer: hephaisto <hephaisto@users.noreply.github.com>
+Version: 1.0.1
+Architecture: armhf
+Depends: 
+
 Package: sharebuy
 Homepage: https://github.com/hephaisto/sharebuy
 Priority: optional
