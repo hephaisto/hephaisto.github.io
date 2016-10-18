@@ -1,3 +1,18 @@
+Package: heinz
+Homepage: https://github.com/hephaisto/heinz
+Priority: optional
+Section: misc
+Filename: pool/main/h/heinz/heinz_1.0.0-g8745a79_armhf.deb
+Size: 317734
+SHA256: b54fffad586d275b1aa8ab8923b857ec12e7bb4b73f709728e1f2d387a0e7611
+SHA1: 689b6a05253c8bdeeffb123bb1e0344f1cefaacc
+MD5sum: 87401b49ea58c96192ec0b53cf407d1b
+Description: Heinzelmaennekes home automation with web interface
+Maintainer: hephaisto <hephaisto@users.noreply.github.com>
+Version: 1.0.0-g8745a79
+Depends: libboost-log1.55.0, libwthttp38 (>= 3.3.3+dfsg), libwt38 (>= 3.3.3+dfsg)
+Architecture: armhf
+
 Package: helloworld
 Homepage: https://github.com/hephaisto/helloworld
 Priority: optional
@@ -11,36 +26,6 @@ Description: Example program
 Maintainer: hephaisto <hephaisto@users.noreply.github.com>
 Architecture: armhf
 Version: 1.0.0
-
-Package: libserial-can-dump
-Homepage: https://github.com/hephaisto/serial-can-dump
-Priority: optional
-Section: misc
-Filename: pool/main/libs/libserial-can-dump/libserial-can-dump_1.2.0_armhf.deb
-Size: 1384
-SHA256: 2485dd1b41a63a090a9fc8ecbaafd9c27e29b8ee2ef71d47429ff9452e7a90f4
-SHA1: 9475a7cfc5c94ffda1b956ef66afff010561137d
-MD5sum: 3666b02724fbca2a2cbdfbf7cafac2f3
-Description: Transfer CAN frames via serial. Host-Library to decode serial input.
-Maintainer: hephaisto <hephaisto@users.noreply.github.com>
-Version: 1.2.0
-Architecture: armhf
-Depends: libserial-can-dump
-
-Package: libserial-can-dump-dev
-Homepage: https://github.com/hephaisto/serial-can-dump
-Priority: optional
-Section: misc
-Filename: pool/main/libs/libserial-can-dump-dev/libserial-can-dump-dev_1.2.0_armhf.deb
-Size: 90764
-SHA256: c97d29524bc6fba0b6639bd2361be507c66d8fcb405be0920f5cc96589de6e93
-SHA1: f1fbed1743984e7507467acef0e73a762e2c456b
-MD5sum: bdec99a611acdcc8918765d4952d4ed7
-Description: Header files for libserial-can-dump
-Maintainer: hephaisto <hephaisto@users.noreply.github.com>
-Version: 1.2.0
-Depends: 
-Architecture: armhf
 
 Package: sharebuy
 Homepage: https://github.com/hephaisto/sharebuy

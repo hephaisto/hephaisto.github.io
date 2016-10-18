@@ -5,28 +5,27 @@ Origin: hephaisto.github.io
 Label: Hephaisto via github
 Suite: stable
 Codename: stable
-Date: Fri, 16 Sep 2016 12:50:48 UTC
+Date: Tue, 18 Oct 2016 16:37:28 UTC
 Architectures: armhf
 Components: main
 Description: Auto generated packages for raspbian
 MD5Sum:
- 2f58c0387692169c1af1a71c6d98489d 2182 main/binary-armhf/Packages
- 8242acbb1f450f95145c9a04ddd818e9 891 main/binary-armhf/Packages.gz
+ 7921792d6f5f26b83c33e821742fc5e4 1653 main/binary-armhf/Packages
+ 8491979aed76aed381359ccc52b6d542 744 main/binary-armhf/Packages.gz
  ce1b0a9b8be7b40d83fd966f1006f0ad 158 main/binary-armhf/Release
 SHA1:
- 3c78ade7121a25e0a99379f84243fe49512f92cd 2182 main/binary-armhf/Packages
- d2419d1eb226a0aef1bc2eddddb3e9480a90325a 891 main/binary-armhf/Packages.gz
+ f98e09a082a36f0a1b69114f1feb09936b728e22 1653 main/binary-armhf/Packages
+ 22403d97d8f62de47ee4c1fa0c41fa8b074b17ce 744 main/binary-armhf/Packages.gz
  bcda7a9015e50752a200d697c045de12171b97e4 158 main/binary-armhf/Release
 SHA256:
- 60d6ded2cd7f9df10681de2a1aa190b6fcfd2f22226c28fe1b49efc40fa43697 2182 main/binary-armhf/Packages
- 539dd691d2e74bc5a7ad6fed78159891455f197d2b45b2d3f6c8db0cb5ba246c 891 main/binary-armhf/Packages.gz
+ 4c133020ace4e45e5d9f1a97907ebabed0ecf129a7234898cca5546025060393 1653 main/binary-armhf/Packages
+ 25be461fe109f8362b1f92c15d7320ac245ec52d9e21dc0c3f4bcdc458b22d64 744 main/binary-armhf/Packages.gz
  7d542f18e0d4910d506e9841ec636682ec8ba6c0e43a84a73a248e42a64a404a 158 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v2
 
-iJwEAQEIAAYFAlfb6qgACgkQlgroxE3gvCQBUAP9FlBPXnOOzBY3m4gQr/JNzqh1
-Id0e1Ud3dF/r9y5udL2s8lbx6bI3nWgmMYMbHkihEPL78kqcV7cy6xW93IXr15cx
-CfQbKJZ6bDAMk5JuVuv7xd/4r8byCSe2ijlGWADsz3aj/56/CQbTXCn8HzFBuiWO
-6GTm1WemE4C2oMXwDC8=
-=6d9t
+iJwEAQEIAAYFAlgGT8gACgkQlgroxE3gvCSrugP/aXSm4iZdBOy73BTM6hY/sNs+
+YNElE/v9JGuMk91u0oLVzMw1nnQHwDdMJgDX2kPCTDTquVL9g40vnwOvaiZHQd5V
+wZ2YrvItVwAGkq30E+No+Q0lqslGwFUfuFUGcc6YethRvPWM5WPZh2e8jLDfxmZE
+aEtvW+LO+2LzLhDZAgU=
+=qb/Y
 -----END PGP SIGNATURE-----
