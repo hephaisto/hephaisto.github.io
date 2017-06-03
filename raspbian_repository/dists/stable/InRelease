@@ -5,27 +5,27 @@ Origin: hephaisto.github.io
 Label: Hephaisto via github
 Suite: stable
 Codename: stable
-Date: Tue, 18 Oct 2016 16:37:28 UTC
+Date: Sat, 03 Jun 2017 19:54:58 UTC
 Architectures: armhf
 Components: main
 Description: Auto generated packages for raspbian
 MD5Sum:
- 7921792d6f5f26b83c33e821742fc5e4 1653 main/binary-armhf/Packages
- 8491979aed76aed381359ccc52b6d542 744 main/binary-armhf/Packages.gz
+ 6a3b60f3b7401a8039bb9d302fc9e826 1653 main/binary-armhf/Packages
+ 91efdd68a68a1e49fe0258c58732fd46 747 main/binary-armhf/Packages.gz
  ce1b0a9b8be7b40d83fd966f1006f0ad 158 main/binary-armhf/Release
 SHA1:
- f98e09a082a36f0a1b69114f1feb09936b728e22 1653 main/binary-armhf/Packages
- 22403d97d8f62de47ee4c1fa0c41fa8b074b17ce 744 main/binary-armhf/Packages.gz
+ 3b12b66e2557d502c7fe3a8d558d56822e62ed7f 1653 main/binary-armhf/Packages
+ eb01050c648be05d8eb0cd889cd864399dd6e0a0 747 main/binary-armhf/Packages.gz
  bcda7a9015e50752a200d697c045de12171b97e4 158 main/binary-armhf/Release
 SHA256:
- 4c133020ace4e45e5d9f1a97907ebabed0ecf129a7234898cca5546025060393 1653 main/binary-armhf/Packages
- 25be461fe109f8362b1f92c15d7320ac245ec52d9e21dc0c3f4bcdc458b22d64 744 main/binary-armhf/Packages.gz
+ 5d001e60c9d3efe14a9486f2bdaca1729c48b46af03d842b015eac1f2481194b 1653 main/binary-armhf/Packages
+ f2b8443f7f58b094960f930f7f89e194a0f6f417ec5915b20731a65ddab4280e 747 main/binary-armhf/Packages.gz
  7d542f18e0d4910d506e9841ec636682ec8ba6c0e43a84a73a248e42a64a404a 158 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iJwEAQEIAAYFAlgGT8gACgkQlgroxE3gvCSrugP/aXSm4iZdBOy73BTM6hY/sNs+
-YNElE/v9JGuMk91u0oLVzMw1nnQHwDdMJgDX2kPCTDTquVL9g40vnwOvaiZHQd5V
-wZ2YrvItVwAGkq30E+No+Q0lqslGwFUfuFUGcc6YethRvPWM5WPZh2e8jLDfxmZE
-aEtvW+LO+2LzLhDZAgU=
-=qb/Y
+iLMEAQEIAB0WIQQ73EZgqiZ5LsoicY6WCujETeC8JAUCWTMUEwAKCRCWCujETeC8
+JIh8A/4577duGLjIzsHS8jEqje4DBE1IKvRO/Sk5cOqUsuev7PYrjhB3Ew/Nirmu
+J2F4w7yHhSeszp5L6t4hKmwqWIuYV1kOz5BX32LC3/GGROXbCIQpRo7wf5JpHiYC
+13JQ8C6oZlyhy5bkXth/IK8uvxNLEo2ahqvP91ZCItjRZ6aDKg==
+=FJYl
 -----END PGP SIGNATURE-----

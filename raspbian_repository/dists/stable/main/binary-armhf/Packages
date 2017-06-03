@@ -31,14 +31,14 @@ Package: sharebuy
 Homepage: https://github.com/hephaisto/sharebuy
 Priority: optional
 Section: misc
-Filename: pool/main/s/sharebuy/sharebuy_1.2.0_armhf.deb
-Size: 475474
-SHA256: a004ece82a3a588a297779e62b1e6a0dd40f8ce86e81b983bbacde7e5fe2071a
-SHA1: c90fe949a376e20b92772aa47a8d375e85c3e4d4
-MD5sum: 3345d2d2fdee7cc5c1b708b447bd7eb3
+Filename: pool/main/s/sharebuy/sharebuy_1.2.1_armhf.deb
+Size: 473026
+SHA256: 38e9c6c30f1ac73ec097f1aab905d9bd9be540fdacfd006b3cb57294f6e922eb
+SHA1: e95cdfa55f12f48efdff32e9dd2cc955661575e1
+MD5sum: b409ebf4d2967fd1300c3e217341b74b
 Description: Coordinate onlineshopping with other users to save on shipping costs.
 Maintainer: hephaisto <hephaisto@users.noreply.github.com>
-Version: 1.2.0
+Version: 1.2.1
 Architecture: armhf
 Depends: libboost-log1.55.0, libwthttp38 (>= 3.3.3+dfsg), libwtdbo38 (>= 3.3.3+dfsg), libwt38 (>= 3.3.3+dfsg)
 
