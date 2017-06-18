@@ -2,19 +2,19 @@ Origin: hephaisto.github.io
 Label: Hephaisto via github
 Suite: stable
 Codename: stable
-Date: Sat, 03 Jun 2017 19:54:58 UTC
+Date: Sun, 18 Jun 2017 21:45:50 UTC
 Architectures: armhf
 Components: main
 Description: Auto generated packages for raspbian
 MD5Sum:
- 6a3b60f3b7401a8039bb9d302fc9e826 1653 main/binary-armhf/Packages
- 91efdd68a68a1e49fe0258c58732fd46 747 main/binary-armhf/Packages.gz
+ a0564983ceffc9559c33cb7af40465f4 1653 main/binary-armhf/Packages
+ 29677cba8a52dc8c80baa9bf6e5573b3 747 main/binary-armhf/Packages.gz
  ce1b0a9b8be7b40d83fd966f1006f0ad 158 main/binary-armhf/Release
 SHA1:
- 3b12b66e2557d502c7fe3a8d558d56822e62ed7f 1653 main/binary-armhf/Packages
- eb01050c648be05d8eb0cd889cd864399dd6e0a0 747 main/binary-armhf/Packages.gz
+ 4d223cbfe56c9979b5b6f4f55ec340ec7830b7bf 1653 main/binary-armhf/Packages
+ a9638e63eff5325b6beee3cf2dd539fcc5e515e9 747 main/binary-armhf/Packages.gz
  bcda7a9015e50752a200d697c045de12171b97e4 158 main/binary-armhf/Release
 SHA256:
- 5d001e60c9d3efe14a9486f2bdaca1729c48b46af03d842b015eac1f2481194b 1653 main/binary-armhf/Packages
- f2b8443f7f58b094960f930f7f89e194a0f6f417ec5915b20731a65ddab4280e 747 main/binary-armhf/Packages.gz
+ 2ff6bf9ad5c68cf21844a11f34aa8fa6aabcea05cdf9b7f18f7d2234ab0c10af 1653 main/binary-armhf/Packages
+ b96773ce2cb0533cd051dc734d6762e26f3eb769d9c8a0e383595870808a67b3 747 main/binary-armhf/Packages.gz
  7d542f18e0d4910d506e9841ec636682ec8ba6c0e43a84a73a248e42a64a404a 158 main/binary-armhf/Release
