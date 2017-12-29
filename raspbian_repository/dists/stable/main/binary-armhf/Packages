@@ -1,44 +1,15 @@
-Package: heinz
-Homepage: https://github.com/hephaisto/heinz
-Priority: optional
-Section: misc
-Filename: pool/main/h/heinz/heinz_1.0.0-g8745a79_armhf.deb
-Size: 317734
-SHA256: b54fffad586d275b1aa8ab8923b857ec12e7bb4b73f709728e1f2d387a0e7611
-SHA1: 689b6a05253c8bdeeffb123bb1e0344f1cefaacc
-MD5sum: 87401b49ea58c96192ec0b53cf407d1b
-Description: Heinzelmaennekes home automation with web interface
-Maintainer: hephaisto <hephaisto@users.noreply.github.com>
-Version: 1.0.0-g8745a79
-Depends: libboost-log1.55.0, libwthttp38 (>= 3.3.3+dfsg), libwt38 (>= 3.3.3+dfsg)
-Architecture: armhf
-
-Package: helloworld
-Homepage: https://github.com/hephaisto/helloworld
-Priority: optional
-Section: main
-Filename: pool/main/h/helloworld/helloworld_1.0.0_armhf.deb
-Size: 3342
-SHA256: aa5880b37b2a079f99d06305d7a2a32b9b1e87068656a16827134685ee780702
-SHA1: da4c0c6220a3ba79943c239e955c84130af64f2a
-MD5sum: d31148ed5217b1c110d48c34b0eeebe5
-Description: Example program
-Maintainer: hephaisto <hephaisto@users.noreply.github.com>
-Architecture: armhf
-Version: 1.0.0
-
 Package: sharebuy
 Homepage: https://github.com/hephaisto/sharebuy
 Priority: optional
 Section: misc
-Filename: pool/main/s/sharebuy/sharebuy_1.2.3_armhf.deb
-Size: 471270
-SHA256: d53b1fb566a3725b6b4ca355f2a63158ab390bb6851cb8df069a95c951518533
-SHA1: 010e34757eae25187c517b5aeb7e0041305e43dc
-MD5sum: 04e3a0b776dc969fe22bdc9f8fa66a47
+Filename: pool/main/s/sharebuy/sharebuy_1.2.4_armhf.deb
+Size: 479022
+SHA256: 8052509b23e1cbcef7c2e35ae9417624f7c4437e5bf4c12deaf1ab3d4c13d568
+SHA1: a52e7fa1c11ab11b59806250e46731935fd1d385
+MD5sum: 28e98eea816822c02fcee747d44c0230
 Description: Coordinate onlineshopping with other users to save on shipping costs.
 Maintainer: hephaisto <hephaisto@users.noreply.github.com>
-Version: 1.2.3
+Version: 1.2.4
 Architecture: armhf
-Depends: libboost-log1.55.0, libwthttp38 (>= 3.3.3+dfsg), libwtdbo38 (>= 3.3.3+dfsg), libwt38 (>= 3.3.3+dfsg)
+Depends: libboost-log1.62.0, libwt40 (>= 3.3.6+dfsg), libwtdbo40 (>= 3.3.6+dfsg), libwthttp40 (>= 3.3.6+dfsg)
 
